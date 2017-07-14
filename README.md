@@ -1,7 +1,7 @@
 # HelloWorld
 #an experiment
 #include<iostream>
-using namespace std
+using namespace std;
 int main()
 {
 cout<<"HelloWorld"<<endl;
